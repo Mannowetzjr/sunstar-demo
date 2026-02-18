@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/Mannowetzjr/sunstar-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
